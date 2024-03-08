@@ -20,9 +20,12 @@ This project is a video player application built with React and styled with Tail
 
 ## To get started with this project, clone the repository and install the dependencies:
 
-###`npm i`
+### `npm i`
 
 ## To start the dev server
 
-###`npm start`
-# video-player
+### `npm start`
+
+## Live Demo
+
+You can view a live demo of the Video Player App at [https://video-player-0228.netlify.app/](https://video-player-0228.netlify.app/).
